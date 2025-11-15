@@ -1,0 +1,14 @@
+{
+  "name": "submit-data-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "sub.js",
+  "scripts": {
+    "start": "node sub.js",
+    "build": "echo 'Nothing to build'"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
